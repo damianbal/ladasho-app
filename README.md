@@ -9,6 +9,7 @@ Make sure that you have those packages installed in Laravel project:
 * [Ladasho](https://github.com/damianbal/ladasho)
 * [laravel-cors](https://github.com/barryvdh/laravel-cors)
 
+You need to have laravel/passport package installed as well.
 
 ## Installation
 
